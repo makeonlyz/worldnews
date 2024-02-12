@@ -1,3 +1,3 @@
 export default {
-  BLOG_URL: "worldnewsroom.info/eng",
+  BLOG_URL: "dolly.usnews.uk",
 };
